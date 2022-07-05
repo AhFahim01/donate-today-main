@@ -23,8 +23,9 @@ font-family: 'Poppins', sans-serif;
     text-decoration: none;
     color: white;
     font-weight:700 ;
-    padding: 10px 10px;
+    padding: 8px 8px;
     border-radius: 10px;
+    
 }
 .center-second{
     text-align: center;
@@ -57,4 +58,16 @@ font-family: 'Poppins', sans-serif;
 .under-line{
 text-decoration: underline;
 text-underline-position:;
+}
+.center-trd{
+    text-align: center;
+    padding-right:15% ;
+    padding-left: 15%;  
+}
+
+.flexiable-container{
+    display: flex;
+}
+.one-trd-width{
+    
 }
