@@ -1,0 +1,26 @@
+body{
+    font-family: 'Hind', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.center{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 3px;
+    background-image: url(images/donation13.jpg);
+    
+}
+.text-c{
+     margin-left:20%;
+     margin-right:20%;
+}
+.color{
+    color:white;
+    margin-bottom: 140px;
+}
+.donate-now{
+    background-image: linear-gradient(tomato,tomato);
+    text-decoration: none;
+    color: white;
+    font-weight:700 ;
+    padding: 1px 10px;
+}
