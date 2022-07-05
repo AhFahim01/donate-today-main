@@ -2,7 +2,7 @@ body{
     font-family: 'Hind', sans-serif;
 font-family: 'Poppins', sans-serif;
 }
-.center{
+.center-first{
     text-align: center;
     padding-top: 60px;
     padding-bottom: 3px;
@@ -12,6 +12,7 @@ font-family: 'Poppins', sans-serif;
 .text-c{
      margin-left:20%;
      margin-right:20%;
+     
 }
 .color{
     color:white;
@@ -23,4 +24,32 @@ font-family: 'Poppins', sans-serif;
     color: white;
     font-weight:700 ;
     padding: 1px 10px;
+}
+.center-second{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 3px;
+    margin-bottom: 120px;
+}
+.i-block{
+    width: 100px;
+    height: 100px; 
+    padding: 20px;
+    padding-top:20px;
+    background-color:whitesmoke;
+    
+}
+#second-block{
+    width: 100px;
+    height: 100px;
+    padding: 22px;
+    border: 2px solid tomato;
+    background-color:rgba(226, 134, 118, 0.11);
+
+}
+.space {
+    padding-bottom:5% ;
+}
+.side-left{
+    padding: left px;% ;
 }
