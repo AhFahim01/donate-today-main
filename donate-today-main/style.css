@@ -55,19 +55,45 @@ font-family: 'Poppins', sans-serif;
 .space-block{
     padding-bottom: 5%;
 }
-.under-line{
-text-decoration: underline;
-text-underline-position:;
-}
+
 .center-trd{
     text-align: center;
     padding-right:15% ;
     padding-left: 15%;  
 }
 
+
+
 .flexiable-container{
     display: flex;
 }
 .one-trd-width{
+    width: 30%;
+    padding-top:  3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gray-color{
+    background-color: azure;
+}
+.pink-color{
+    background-color: rgba(222, 135, 196, 0.308);
+}
+.yello-color{
+    background-color: rgb(255, 239, 196);
+}
+.center-trd{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 3px;
+    margin-bottom: 120px
+}
+.center-footer{
+    text-align:center ;
+    background-image:url(download.png);
+    color: white;
+    
     
 }
