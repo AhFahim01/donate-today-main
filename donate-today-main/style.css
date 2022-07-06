@@ -94,6 +94,26 @@ font-family: 'Poppins', sans-serif;
     text-align:center ;
     background-image:url(download.png);
     color: white;
+}
+.sub-box{
+    width: 100px;
+    height: 100px; 
+    padding: 2% ;
+    border-top:   50px solid rgba(255, 166, 0, 0.315);
+    border-left:  140px solid rgba(255, 166, 0, 0.315);
+    border-right: 140px solid rgba(255, 166, 0, 0.315);
+    border-bottom:50px solid rgba(255, 166, 0, 0.315) ;
     
+    background-color:whitesmoke;
+    text-align: center;
     
+}
+   
+
+
+.sub-box-one{
+    background-image: linear-gradient(tomato,tomato);
+    color: white;
+    font-weight:700 ;
+    padding: 8px 8px;
 }
