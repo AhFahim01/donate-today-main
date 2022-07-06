@@ -25,6 +25,8 @@ font-family: 'Poppins', sans-serif;
     font-weight:700 ;
     padding: 8px 8px;
     border-radius: 10px;
+    box-shadow:10px 10px 40px gray;
+
     
 }
 .center-second{
@@ -120,4 +122,11 @@ font-family: 'Poppins', sans-serif;
 .donation-heading{
     text-decoration: underline orangered;
     color:orangered ;
+}
+.half-width{
+    width: 50%;
+    border-left: 5px solid aquamarine;
+    box-shadow:10px 10px 40px gray;
+    padding: 2%;
+    margin: 2%;
 }
